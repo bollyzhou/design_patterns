@@ -14,6 +14,8 @@ public abstract class AbstractTemplate {
      * 2、学习要先获得书，再读，最后写感想
      * 3、确定的步骤骨架 骨架中的各个步骤的方法可以是实现的可以是抽象的。
      */
+
+    //骨架：是稳定的步骤骨架，其中步骤中方法的实现内容是变化的，不影响骨架的稳定性
     void study(){
         getBook();
         for (int i=0;i<3;i++){
