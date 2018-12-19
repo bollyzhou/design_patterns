@@ -13,10 +13,13 @@ simple factory 简单工厂
 factory 工厂模式
 static factory 静态工厂
 abstract factory 抽象工厂
+builder 构造者模式
+singleton 单例模式
 
 二、行为模式
 template 模板模式
 strategy 策略模式
+observer 观察者模式
 
 
 三、结构模式
