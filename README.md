@@ -16,17 +16,18 @@ abstract factory 抽象工厂
 builder 构造者模式
 singleton 单例模式
 
-二、行为模式
+二、结构模式
+adapter 适配器模式
+decorator 装饰者模式
+brige 桥接模式
+proxy 代理模式
+facade 外观模式
+flyweight 享元模式
+
+
+三、行为模式
 template 模板模式
 strategy 策略模式
 observer 观察者模式
-
-
-三、结构模式
-adapter 适配器模式
-decorator 装饰者模式
-
-
-
 
 
