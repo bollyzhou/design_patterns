@@ -23,11 +23,19 @@ brige 桥接模式
 proxy 代理模式
 facade 外观模式
 flyweight 享元模式
+compsite 组合模式
 
 
 三、行为模式
 template 模板模式
 strategy 策略模式
 observer 观察者模式
+state 状态模式
+mediator 中介者模式
+memento 备忘录模式
+Iterator 迭代器模式
+command 命令模式
+chain of responsibility责任链模式
+visitor 访问者模式
 
 

@@ -21,6 +21,14 @@
         <module>proxy</module>
         <module>facade</module>
         <module>flyweight</module>
+        <module>composite</module>
+        <module>state</module>
+        <module>mediator</module>
+        <module>memento</module>
+        <module>Iterator</module>
+        <module>command</module>
+        <module>chain-of-responsibility</module>
+        <module>visitor</module>
     </modules>
     <properties>
         <java.version>1.8</java.version>
